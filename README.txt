@@ -1,0 +1,1 @@
+Updated Bakus Birthday Website. Extract the ZIP and open index.html in Chrome/Edge/Firefox. Tap the music button once to start playback. The supplied original project currently contains two moments; the remaining 22 moments have not been created yet. See README_Gujarati.txt for details.
